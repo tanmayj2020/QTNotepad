@@ -14,7 +14,7 @@
 - cd QTNotepad 
 - qmake TanmayNotePad.pro
 - make
--./TanmayNotePad.pro to run the code
+- ./TanmayNotePad.pro to run the executable
 
 
 # What has been done
