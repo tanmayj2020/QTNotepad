@@ -27,7 +27,7 @@ Also we can create new text files ,save this text file and open an existing file
 QT6 currently has very less resources available , also I not being much proficient in C++ took lots of time first to revise my CPP concepts
 and later had to research on various resources to learn QT. For a first timer like me , QT had a very steep learning curve
 
-#Features 
+# Features 
 - Bold
 - Superscript/Subscript
 - About Resume
