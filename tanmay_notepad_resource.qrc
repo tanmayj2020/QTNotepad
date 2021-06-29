@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resume">
+        <file>tanmay_resume.jpg</file>
+    </qresource>
+</RCC>
